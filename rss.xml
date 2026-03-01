@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Akhil K Thomas blog]]></title>
+    <link>https://writizen-demo.github.io</link>
+    <description><![CDATA[Latest posts from Akhil K Thomas blog]]></description>
+    <atom:link href="https://writizen-demo.github.io/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title><![CDATA[Nikhil]]></title>
+      <link>https://writizen-demo.github.io/posts/nikhil.html</link>
+      <guid>https://writizen-demo.github.io/posts/nikhil.html</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an ...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The end of software business]]></title>
+      <link>https://writizen-demo.github.io/posts/the-end-of-software-business.html</link>
+      <guid>https://writizen-demo.github.io/posts/the-end-of-software-business.html</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[This is a brief guide to my new art project microgpt, a single file of 200 lines of pure Python with no dependencies that trains and inferences a GPT. This file contains the full a...]]></description>
+    </item>
+  </channel>
+</rss>
