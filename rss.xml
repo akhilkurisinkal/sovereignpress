@@ -7,11 +7,18 @@
     <atom:link href="https://writizen-demo.github.io/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title><![CDATA[test post]]></title>
-      <link>https://writizen-demo.github.io/posts/test-post.html</link>
-      <guid>https://writizen-demo.github.io/posts/test-post.html</guid>
+      <title><![CDATA[Test Blog 2]]></title>
+      <link>https://writizen-demo.github.io/posts/test-blog-2.html</link>
+      <guid>https://writizen-demo.github.io/posts/test-blog-2.html</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Testttt]]></description>
+      <description><![CDATA[Heyyy]]></description>
+    </item>
+    <item>
+      <title><![CDATA[This is my test blog]]></title>
+      <link>https://writizen-demo.github.io/posts/this-is-my-test-blog.html</link>
+      <guid>https://writizen-demo.github.io/posts/this-is-my-test-blog.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[This is a brief guide to my new art project microgpt, a single file of 200 lines of pure Python with no dependencies that trains and inferences a GPT. This file contains the full a...]]></description>
     </item>
   </channel>
 </rss>
