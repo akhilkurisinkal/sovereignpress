@@ -7,25 +7,11 @@
     <atom:link href="https://writizen-demo.github.io/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title><![CDATA[Untitled]]></title>
-      <link>https://writizen-demo.github.io/posts/untitled-1772384795555.html</link>
-      <guid>https://writizen-demo.github.io/posts/untitled-1772384795555.html</guid>
+      <title><![CDATA[This is my test blog]]></title>
+      <link>https://writizen-demo.github.io/posts/this-is-my-test-blog.html</link>
+      <guid>https://writizen-demo.github.io/posts/this-is-my-test-blog.html</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Test]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Nikhil]]></title>
-      <link>https://writizen-demo.github.io/posts/nikhil.html</link>
-      <guid>https://writizen-demo.github.io/posts/nikhil.html</guid>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an ...]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The end of software business]]></title>
-      <link>https://writizen-demo.github.io/posts/the-end-of-software-business.html</link>
-      <guid>https://writizen-demo.github.io/posts/the-end-of-software-business.html</guid>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Hi this is a brief guide to my new art fff microgpt, a single file of 200 lines of pure Python with no dependencies that trains and inferences a GPT. This file contains the full al...]]></description>
+      <description><![CDATA[This is a brief guide to my new art project microgpt, a single file of 200 lines of pure Python with no dependencies that trains and inferences a GPT. This file contains the full a...]]></description>
     </item>
   </channel>
 </rss>
