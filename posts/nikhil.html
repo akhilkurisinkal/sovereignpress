@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nikhil</title>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #1a1a1a;
+      --border: #f0f0f0;
+      --accent: #4f46e5;
+      --muted: #6b7280;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f111a;
+        --text: #f3f4f6;
+        --border: #1f2233;
+        --accent: #818cf8;
+        --muted: #9ca3af;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      -webkit-font-smoothing: antialiased;
+    }
+    header {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: 0 auto;
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.25rem;
+      font-weight: 800;
+      letter-spacing: -0.025em;
+    }
+    header a {
+      color: var(--text);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    header a:hover { color: var(--accent); }
+    main {
+      padding: 3rem 1rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    article img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin: 2rem 0;
+    }
+    article h1, article h2, article h3 {
+      font-weight: 700;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.025em;
+    }
+    article h2 { font-size: 1.875rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+    article a { color: var(--accent); text-decoration: none; }
+    article a:hover { text-decoration: underline; }
+    article pre {
+      background: #1f2937;
+      color: #e5e7eb;
+      padding: 1.25rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.875rem;
+      margin: 1.5rem 0;
+    }
+    article code {
+      background: rgba(128, 128, 128, 0.1);
+      padding: 0.2em 0.4em;
+      border-radius: 4px;
+      font-size: 0.875em;
+      font-family: monospace;
+    }
+    article blockquote {
+      border-left: 4px solid var(--accent);
+      padding-left: 1rem;
+      color: var(--muted);
+      margin: 1.5rem 0;
+      font-style: italic;
+    }
+    footer {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+      font-size: 0.875rem;
+      border-top: 1px solid var(--border);
+      max-width: 800px;
+      margin: 3rem auto 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1><a href="../index.html">My Blog</a></h1>
+  </header>
+  <main>
+    <article>
+      <h1>What is Lorem Ipsum?</h1>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+<p>Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic</p>
+<p>typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+    </article>
+  </main>
+  <footer>
+    <p>Published with <a href="https://github.com/writizen" style="color:var(--accent);text-decoration:none;">Writizen</a></p>
+  </footer>
+</body>
+</html>
