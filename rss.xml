@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Akhil K Thomas blog]]></title>
+    <link>https://writizen-demo.github.io</link>
+    <description><![CDATA[Latest posts from Akhil K Thomas blog]]></description>
+    <atom:link href="https://writizen-demo.github.io/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title><![CDATA[test post]]></title>
+      <link>https://writizen-demo.github.io/posts/test-post.html</link>
+      <guid>https://writizen-demo.github.io/posts/test-post.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Testttt]]></description>
+    </item>
+  </channel>
+</rss>
