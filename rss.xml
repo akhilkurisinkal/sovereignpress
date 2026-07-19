@@ -1,38 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title><![CDATA[Akhil blog]]></title>
-    <link>https://thooval-demo.github.io</link>
-    <description><![CDATA[Latest posts from Akhil blog]]></description>
-    <atom:link href="https://thooval-demo.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <title><![CDATA[Akhil K Thomas blog]]></title>
+    <link>https://writizen-demo.github.io</link>
+    <description><![CDATA[Latest posts from Akhil K Thomas blog]]></description>
+    <atom:link href="https://writizen-demo.github.io/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title><![CDATA[Markdown vs. WYSIWYG: Why True Writers Choose Plain Text]]></title>
-      <link>https://thooval-demo.github.io/posts/markdown-vs-wysiwyg-why-true-writers-choose-plain-text.html</link>
-      <guid>https://thooval-demo.github.io/posts/markdown-vs-wysiwyg-why-true-writers-choose-plain-text.html</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[For decades, software like Microsoft Word defined how we write on computers. Known as WYSIWYG (What You See Is What You Get), these editors allow you to highlight a word, click a &...]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Why Local-First Software is the Future of Writing]]></title>
-      <link>https://thooval-demo.github.io/posts/why-local-first-software-is-the-future-of-writing.html</link>
-      <guid>https://thooval-demo.github.io/posts/why-local-first-software-is-the-future-of-writing.html</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[For the last decade, the tech industry has pushed us relentlessly toward the cloud. We&#39;ve been told that keeping our files on remote servers managed by massive corporations is ...]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Best Minimalist Markdown Editors for Mac]]></title>
-      <link>https://thooval-demo.github.io/posts/the-best-minimalist-markdown-editors-for-mac.html</link>
-      <guid>https://thooval-demo.github.io/posts/the-best-minimalist-markdown-editors-for-mac.html</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The Mac ecosystem has always been famous for beautiful, design-centric software. For writers, this means we have an abundance of choices when it comes to text editors. However, ove...]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Easiest Static Site Generator Built for Writers]]></title>
-      <link>https://thooval-demo.github.io/posts/the-easiest-static-site-generator-built-for-writers.html</link>
-      <guid>https://thooval-demo.github.io/posts/the-easiest-static-site-generator-built-for-writers.html</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[If you&#39;ve ever started a blog, odds are you installed WordPress. It is the dominant force on the web. It operates by storing your articles in a MySQL database, processing them ...]]></description>
+      <title><![CDATA[Hello Akhil]]></title>
+      <link>https://writizen-demo.github.io/posts/hello-akhil.html</link>
+      <guid>https://writizen-demo.github.io/posts/hello-akhil.html</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[This is a test post Akhil!]]></description>
     </item>
   </channel>
 </rss>
