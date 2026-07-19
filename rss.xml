@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title><![CDATA[Akhil K Thomas blog]]></title>
-    <link>https://writizen-demo.github.io</link>
-    <description><![CDATA[Latest posts from Akhil K Thomas blog]]></description>
-    <atom:link href="https://writizen-demo.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <title><![CDATA[Akhil blog]]></title>
+    <link>https://thooval-demo.github.io</link>
+    <description><![CDATA[Latest posts from Akhil blog]]></description>
+    <atom:link href="https://thooval-demo.github.io/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title><![CDATA[Hello Akhil]]></title>
-      <link>https://writizen-demo.github.io/posts/hello-akhil.html</link>
-      <guid>https://writizen-demo.github.io/posts/hello-akhil.html</guid>
+      <link>https://thooval-demo.github.io/posts/hello-akhil.html</link>
+      <guid>https://thooval-demo.github.io/posts/hello-akhil.html</guid>
       <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[This is a test post Akhil!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Welcome]]></title>
+      <link>https://thooval-demo.github.io/posts/welcome.html</link>
+      <guid>https://thooval-demo.github.io/posts/welcome.html</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Welcome to your new local-first blog! This markdown file lives safely on your machine.]]></description>
     </item>
   </channel>
 </rss>
